@@ -1,0 +1,10 @@
+name: MountPlugin
+main: com.parakeetstudios.spellmount.MountPlugin
+version: 1.0.0
+load: STARTUP
+api-version: 1.20
+author: Cammy@Parakeet
+description: V1 Magical Mounts Plugin for Spellbrook - 2024
+commands:
+  magicmount:
+    description: Dev command for spellmount's magic mounts
